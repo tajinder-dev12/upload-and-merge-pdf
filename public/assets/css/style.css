@@ -1,0 +1,26 @@
+.addpdf{
+    text-align:right;
+}
+
+.error{
+    color:red;
+}
+
+.actionbtn {
+    color:white;
+    text-decoration:none;
+}
+
+.ermsg{
+    background-color: red;
+    margin: 50px;
+}
+
+.scmsg{
+    margin: 50px;
+    background-color: #84cb84;
+}
+
+#listhd{
+    text-align: center; margin: 43px;
+}
